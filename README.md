@@ -24,3 +24,5 @@ https://github.com/leanera/swear-jar-task
 ## Log
 
 * 1h: Backend-Grundstruktur
+* 1,5h: Frontend-Grundstruktur
+* 0,5h API-Anbindung

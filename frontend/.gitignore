@@ -1,14 +1,11 @@
-backend/node_modules
-backend/dist
-
-frontend/.DS_Store
-frontend/node_modules
-frontend/dist
+.DS_Store
+node_modules
+/dist
 
 
 # local env files
-frontend/.env.local
-frontend/.env.*.local
+.env.local
+.env.*.local
 
 # Log files
 npm-debug.log*
